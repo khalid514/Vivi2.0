@@ -11,7 +11,7 @@ global.botnumber = "96555480132"
 global.confirmCode = ""
 
 global.owner = [
-  ['96555480132', '👑 Mystic - Creador 👑', true],
+  ['96551048712', '👑 Bobo - Creador 👑', true],
   ['96555480132'],
   ['96555480132']
 ];
